@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'Pacifico';
+  src: local('Pacifico Regular'), local('Pacifico-Regular'), url(font/pacifico-v17-vietnamese-regular.ttf) format('woff2');
+}
+
+@font-face {
+  font-family: 'Noto Sans';
+  src: local('Noto Sans'), local('NotoSans'), url(font/NotoSans-Regular.ttf) format('woff2');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat'), url(font/Montserrat-Regular.ttf) format('ttf');
+}
+
+@font-face {
+  font-family: 'Droid Serif';
+  src: local('Droid Serif'), local('Droid-Serif'), url(font/DroidSerif-Regular.ttf) format('ttf');
+}
+
+@font-face {
+  font-family: 'raleway';
+  src: local('raleway'), url(font/Raleway-Thin.ttf) format('ttf');
+}
+
+@font-face {
+	font-family: 'zimed-icon';
+	src: url(font/zimed-icon.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
+@font-face {
+  font-family: 'Barlow';
+  src: local('Barlow'), url(font/Barlow-Regular.ttf) format('ttf');
+}
